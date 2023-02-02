@@ -1,7 +1,3 @@
-// MARIN DONCHEV - SDH2A
-// R00192936
-
-// #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ncurses.h>
